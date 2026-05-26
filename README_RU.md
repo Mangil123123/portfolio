@@ -4,4 +4,4 @@
 
 ### 1. Netflix Content Analysis
 Интерактивный дашборд Netflix данных
-[Посмортеть проект →](netflix-analysis/README_RU.md)
+[Посмотреть проект →](netflix-analysis/README_RU.md)
