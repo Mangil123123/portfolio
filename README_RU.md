@@ -1,7 +1,7 @@
 # Портфолио
 # 🎬 Netflix Content Analysis Dashboard
 
-![Netflix Dashboard](images/dashboard3.png)
+![Netflix Dashboard](Netflix_dashboard3.png)
 
 ## 🇷🇺 О проекте (Russian)
 
