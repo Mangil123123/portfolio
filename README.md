@@ -1,6 +1,8 @@
 # portfolio
 # 🎬 Netflix Content Analysis Dashboard
 
+![Netflix Dashboard](images/dashboard3.png)
+
 ## 🇷🇺 О проекте (Russian)
 
 Интерактивный дашборд для анализа библиотеки контента Netflix: распределение по типам, странам и тренды по годам.
