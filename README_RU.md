@@ -1,4 +1,4 @@
-# portfolio
+# Портфолио
 # 🎬 Netflix Content Analysis Dashboard
 
 ![Netflix Dashboard](images/dashboard3.png)
