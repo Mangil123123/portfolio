@@ -2,7 +2,7 @@
 
 # 🎬 Netflix Content Analysis Dashboard
 
-![Netflix Dashboard](images/dashboard3.png)
+![Netflix Dashboard](images/Netflix_dashboard3.png)
 
 ## 🇬🇧 About the Project (English)
 
