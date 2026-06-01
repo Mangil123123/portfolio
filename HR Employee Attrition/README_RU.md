@@ -1,6 +1,6 @@
 # 👥 HR Analytics Dashboard
 
-![HR Dashboard](images/HR_dashboard.png)
+![HR Dashboard](images/HR_Dashboard.png)
 
 ## 🇷🇺 О проекте
 
