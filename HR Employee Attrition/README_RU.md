@@ -37,11 +37,19 @@
 
 ### 2. Меры на DAX
 
-**Total Employees:**
+**Total Employees**
+
+<img src="images/Total_Employees.png" alt="Total_Employees" width="230">
+
+Мера:
 ```
 Total Employees = COUNTROWS('HR')
 ```
-**Employees Left:**
+**Employees Left**
+
+<img src="images/Employees_Left.png" alt="Employees_Left:" width="230">
+
+Мера:
 ```
 Employees Left = 
 CALCULATE(
@@ -49,7 +57,11 @@ CALCULATE(
     'HR'[Attrition] = "Yes"
 )
 ```
-**Attrition Rate %:**
+**Attrition Rate %**
+
+<img src="images/Attrition_Rate_Percent.png" alt="Attrition_Rate_%:" width="230">
+
+Мера:
 ```
 Attrition Rate % = 
 DIVIDE(
@@ -58,11 +70,19 @@ DIVIDE(
     0
 )
 ```
-**Avg Salary:**
+**Avg Salary**
+
+<img src="images/Avg_Salary.png" alt="Avg_Salary*:" width="230">
+
+Мера:
 ```
 Avg Salary = AVERAGE('HR'[MonthlyIncome])
 ```
-**Avg Age:**
+**Avg Age**
+
+<img src="images/Avg_Age.png" alt="Avg_Age*:" width="230">
+
+Мера:
 ```
 Avg Age = AVERAGE('HR'[Age])
 ```
