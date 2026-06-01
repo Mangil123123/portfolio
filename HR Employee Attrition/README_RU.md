@@ -1,7 +1,7 @@
 # Портфолио
 # 👥 HR Analytics Dashboard
 
-![HR Dashboard](images/HR_Dashboard.png)
+![HR Dashboard](images/HR_dashboard.png)
 
 ## 🇷🇺 О проекте
 
