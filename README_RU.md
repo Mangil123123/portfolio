@@ -7,7 +7,7 @@
 Интерактивный дашборд Netflix данных
 [Посмотреть проект →](Netflix_analysis/README_RU.md)
 
-### 1. HR Employee Attrition
-![Netflix Dashboard](HR_Employee_Attrition/images/HR_dashboard.png)
-Интерактивный дашборд Netflix данных
+### 2. HR Employee Attrition
+![HR_Employee dashboard](HR_Employee_Attrition/images/HR_dashboard.png)
+Интерактивный дашборд Power BI для анализа текучести
 [Посмотреть проект →](HR_Employee_Attrition/README_RU.md)
