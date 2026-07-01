@@ -1,7 +1,8 @@
 # Portfolio
+
 # 🏠 Дашборд анализа рынка Airbnb в Нью-Йорке
 
-![Airbnb Dashboard](images/Airbnb_dashboard.png)
+![Airbnb Dashboard](images/Airbnb_NYC.png)
 
 ## 🇷🇺 О проекте
 
@@ -29,48 +30,44 @@
 ## Что я сделал
 
 ### 1. Подготовка данных
-- Импортировал датасет Airbnb Open Data (~102,000 объектов, NYC)
+- Импортировал датасет Airbnb Open Data (~102,599 объектов, NYC, 26 колонок)
 - Очистил данные в Power Query:
   - Исправил опечатки в названиях районов ("brookln" → "Brooklyn", "manhatan" → "Manhattan")
-  - Обработал пропущенные значения ("Not Specified" → отфильтровано из анализа)
+  - Обработал пропущенные значения ("Unknown" → отфильтровано из анализа)
   - Проверил типы данных и удалил ошибки
-- Создал Date Table для работы с временными данными
 
 ### 2. DAX-меры
 
 **Total Listings**
 
-
-
 Мера:
 ```dax
-Total Listings = COUNTROWS('Airbnb_Open_Data')
+🏠 Total Listings = COUNTROWS('Airbnb_Open_Data')
 ```
 
 **Average Price/Night**
 
-
-
 Мера:
 ```dax
-Average Price/Night = AVERAGE('Airbnb_Open_Data'[price])
+💵 Avg. Price/Night = AVERAGE('Airbnb_Open_Data'[price])
 ```
 
 **Occupancy Rate**
 
-
-
 Мера:
 ```dax
-Occupancy Rate = DIVIDE(365 - AVERAGE('Airbnb_Open_Data'[availability_365]), 365)
+📈 Occupancy Rate = 
+DIVIDE(
+    365 - AVERAGE('Airbnb_Open_Data'[availability 365]),
+    365
+)
 ```
 
 **Avg Reviews/Month**
 
-
 Мера:
 ```dax
-Avg Reviews/Month = AVERAGE('Airbnb_Open_Data'[reviews_per_month])
+⭐ Avg. Reviews/Month = AVERAGE('Airbnb_Open_Data'[reviews per month])
 ```
 
 ### 3. Визуализация
@@ -91,10 +88,10 @@ Avg Reviews/Month = AVERAGE('Airbnb_Open_Data'[reviews_per_month])
 ## Применённые навыки
 
 - Работа с Power Query (очистка, трансформация, обработка пропущенных данных)
-- Написание DAX-мер (COUNTROWS, AVERAGE, DIVIDE, CALCULATE)
+- Написание DAX-мер (COUNTROWS, AVERAGE, DIVIDE, CALCULATE, FORMAT)
 - Дизайн дашбордов и UX
 - Бизнес-аналитика и выявление инсайтов
-- Работа с большими CSV-датасетами (100K+ строк)
+- Работа с большими CSV-датасетами (100K+ строк, 26 колонок)
 - Оценка качества данных и документирование
 
 ## 📈 Ключевые инсайты
@@ -102,7 +99,7 @@ Avg Reviews/Month = AVERAGE('Airbnb_Open_Data'[reviews_per_month])
 - **Структура жилья:** 52.38% — entire home/apartment
 - **Лидер по цене:** Staten Island — самая высокая средняя цена ($445) среди районов
 - **Заполняемость:** средний occupancy rate — 61%
-- **Качество данных:** найдены и исправлены опечатки в названиях районов, отфильтрована категория "Not Specified"
+- **Качество данных:** найдены и исправлены опечатки в названиях районов, отфильтрована категория "Unknown"
 
 ## 💡 Рекомендации
 1. **Для инвесторов:** Staten Island — для премиум-ценообразования, Manhattan — для объёма
@@ -113,6 +110,6 @@ Avg Reviews/Month = AVERAGE('Airbnb_Open_Data'[reviews_per_month])
 ## 📂 Датасет
 Это учебный проект на публичном датасете, но задача сформулирована как от реального бизнеса.
 
-**Источник:** [InsideAirbnb - New York City](http://insideairbnb.com/new-york-city)
+**Источник:** [Airbnb Open Data на Kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata) (оригинал: InsideAirbnb NYC)
 
 **Затрачено времени:** 4 дня
