@@ -2,7 +2,7 @@
 
 ## Projects
 
-### 1. Netflix Content Analysis
+### 1. 🏠 Airbnb NYC Market Analysis Dashboard
 ![Netflix Dashboard](Airbnb_NYC/images/Airbnb_NYC.png)
 Interactive Power BI dashboard for analyzing the short-term rental market in New York City.
 [View Project →](Airbnb_NYC/README.md)
