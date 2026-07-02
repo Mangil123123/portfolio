@@ -2,7 +2,7 @@
 
 ## Проекты
 
-### 1. 🏠 Airbnb NYC Market Analysis Dashboard
+### 1. 🏠 Дашборд анализа рынка Airbnb в Нью-Йорке
 ![Netflix Dashboard](Airbnb_NYC/images/Airbnb_NYC.png)
 Интерактивный дашборд в Power BI для анализа рынка краткосрочной аренды жилья в Нью-Йорке.
 [Посмотреть проект →](Airbnb_NYC/README_RU.md)
