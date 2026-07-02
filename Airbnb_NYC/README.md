@@ -4,7 +4,7 @@
 
 ![Airbnb Dashboard](images/Airbnb_NYC.png)
 
-## 🇷🇺 About the Project
+## 🇺🇸 About the Project
 
 Interactive Power BI dashboard for analyzing the short-term rental market in New York City.
 
