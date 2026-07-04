@@ -85,6 +85,8 @@ Measure:
 - Interactive filters (district, room type)
 - Key insights section with actionable findings
 
+![Airbnb Dashboard](images/Airbnb_NYC.gif)
+
 ## Skills Applied
 
 - Working with Power Query (cleaning, transformation, handling missing data)
