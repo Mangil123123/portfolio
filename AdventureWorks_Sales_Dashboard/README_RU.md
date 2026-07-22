@@ -21,14 +21,13 @@
 
 ## Данные и подключение
 - Использовал учебную OLTP-базу **AdventureWorks** от Microsoft (SQL Server sample database).
-- Это мой первый опыт работы с реляционной БД: восстановил бэкап `.bak` в SQL Server и подключился из Power BI через **Get Data → SQL Server**.
 - Период данных: 2011–2014.
 - В отличие от «грязных» CSV, база AdventureWorks уже чистая (OLTP), поэтому основная работа — не очистка, а построение модели и связей между таблицами.
 
 ## Модель данных и связи
-Загрузил несколько связанных таблиц и построил модель по схеме «звезда» (факт-таблицы продаж + справочники):
+Загрузил связанные таблицы продаж и справочники и построил модель, где таблицы продаж (заказы и позиции) связаны со справочниками клиентов, товаров и регионов:
 
-**Факт-таблицы:**
+**Таблицы продаж:**
 - `Sales.SalesOrderHeader` — заказы (дата, клиент, территория)
 - `Sales.SalesOrderDetail` — позиции заказов (товар, количество, выручка `LineTotal`)
 
@@ -39,23 +38,23 @@
 - `Person` — имена клиентов
 
 **Связи между таблицами:**
-- `SalesOrderHeader[SalesOrderID]` ↔ `SalesOrderDetail[SalesOrderID]` — чтобы собрать выручку по заказам
-- `SalesOrderDetail[ProductID]` ↔ `Product[ProductID]` — чтобы резать выручку по товарам
-- `SalesOrderHeader[CustomerID]` ↔ `Customer[CustomerID]` — чтобы видеть, кто купил
-- `Customer[TerritoryID]` ↔ `SalesTerritory[TerritoryID]` — чтобы резать по регионам
-- `Customer[PersonID]` ↔ `Person[BusinessEntityID]` — чтобы вывести имена клиентов
+- `SalesOrderHeader[SalesOrderID]` ↔ `SalesOrderDetail[SalesOrderID]` — собрать выручку по заказам
+- `SalesOrderDetail[ProductID]` ↔ `Product[ProductID]` — резать выручку по товарам
+- `SalesOrderHeader[CustomerID]` ↔ `Customer[CustomerID]` — видеть, кто купил
+- `Customer[PersonID]` ↔ `Person[BusinessEntityID]` — вывести имена клиентов
+- справочник регионов `SalesTerritory` связан по `TerritoryID` (в AdventureWorks это поле есть и в заказах, и в клиентах) — резать выручку по регионам
 
-Именно эти связи позволяют одному визуалу одновременно считать выручку из `SalesOrderDetail` и раскладывать её по регионам, товарам и клиентам из справочников.
+Именно эти связи позволяют одному визуалу одновременно брать выручку из `SalesOrderDetail` и раскладывать её по регионам, товарам и клиентам из справочников.
 
 ## Метрики
-Кастомные DAX-меры не писал — метрики построены на встроенных агрегациях Power BI по полям модели:
+Кастомные DAX-меры не писал — метрики собраны на встроенных агрегациях Power BI по полям модели. Ниже — что каждая карточка реально считает:
 
-| Метрика | Поле | Агрегация |
-|---|---|---|
-| Total Revenue | `SalesOrderDetail[LineTotal]` | Sum |
-| Total Orders | `SalesOrderHeader[SalesOrderID]` | Count |
-| Avg Order Value | `SalesOrderDetail[LineTotal]` | Average |
-| Total Customers | `Customer[CustomerID]` | Count |
+| Метрика на карточке | Поле | Агрегация | Что реально считает |
+|---|---|---|---|
+| Total Revenue | `SalesOrderDetail[LineTotal]` | Sum | общая выручка |
+| Total Orders | `SalesOrderHeader[SalesOrderID]` | Count | число заказов |
+| Avg Order Value | `SalesOrderDetail[LineTotal]` | Average | средняя сумма **строки позиции**, не заказа (см. ограничение ниже) |
+| Total Customers | `Customer[CustomerID]` | Count | число записей в справочнике клиентов |
 
 ## Визуализации
 - **KPI-карточки** — ключевые метрики сверху (Total Revenue, Total Orders, Avg Order Value, Total Customers)
@@ -85,20 +84,8 @@
 - **Топ товаров:** выручка держится на линейке Mountain-200.
 - **Клиенты:** выручка сконцентрирована в узкой группе клиентов.
 
-## Ограничения и точки роста
-- **Метрики без DAX:** использовал встроенные агрегации Power BI. Для более точных расчётов (например, уникальные клиенты через `DISTINCTCOUNT`, или динамика год-к-году) следующим шагом написал бы кастомные DAX-меры.
-- **Total Customers:** метрика построена как Count поля `CustomerID`; для гарантии уникальности клиентов корректнее использовать `DISTINCTCOUNT`.
-- **Разрез по клиентам:** построен по имени (`FirstName`), а имя не уникально — разных людей по имени John много. Корректнее резать по `CustomerID` или сегменту.
-- **Просадка 2014:** это неполный год, а не реальный спад; для честной динамики нужно сравнивать сопоставимые периоды.
-
-## Рекомендации
-- **Диверсификация:** снижать зависимость от региона Southwest и линейки Mountain-200.
-- **Разрез по клиентам:** уточнить гранулярность (по `CustomerID` или сегменту, а не по имени).
-
----
-
 Это учебный проект на публичной базе Microsoft, но задача сформулирована как от реального бизнеса.
 
-**Источник:** Microsoft AdventureWorks (sql-server-samples на GitHub), SQL Server sample database.
+**Источник:** [AdventureWorks Sales Dashboard](https://github.com/Microsoft/sql-server-samples/releases/#release-adventureworks) SQL Server sample database.
 
 **Затрачено времени:** [5 дней, 75 минут в день]
