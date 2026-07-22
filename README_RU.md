@@ -7,6 +7,11 @@
 Интерактивный дашборд в Power BI для анализа рынка краткосрочной аренды жилья в Нью-Йорке.
 [Посмотреть проект →](Airbnb_NYC/README_RU.md)
 
+### 📈 Продажи AdventureWorks
+![AdventureWorks_Sales_Dashboard](AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png)
+Интерактивный дашборд Power BI для анализа продаж на базе AdventureWorks.
+[Посмотреть проект →](AdventureWorks_Sales_Dashboard/README_RU.md)
+
 ### 🎬 Аналитика контента Netflix
 ![Netflix Dashboard](Netflix_analysis/images/Netflix_dashboard3.png)
 Интерактивный дашборд Netflix данных
