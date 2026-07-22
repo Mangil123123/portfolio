@@ -87,4 +87,4 @@ This is a portfolio project based on Microsoft's public dataset, structured to a
 
 **Data Source:** [AdventureWorks Sales Dashboard](https://github.com/Microsoft/sql-server-samples/releases/#release-adventureworks) SQL Server sample database.
 
-**Time Spent:** [5 days, 75 minutes per day]
+**Time Spent:** 5 days
