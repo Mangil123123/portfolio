@@ -7,7 +7,7 @@
 Interactive Power BI dashboard for analyzing the short-term rental market in New York City.
 [View Project →](Airbnb_NYC/README.md)
 
-### 📈 AdventureWorks Sales Dashboard
+### 📈 AdventureWorks Sales
 ![AdventureWorks_Sales_Dashboard](AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png)
 An interactive Power BI sales analysis dashboard built on AdventureWorks
 [View Project →](AdventureWorks_Sales_Dashboard/README.md)
