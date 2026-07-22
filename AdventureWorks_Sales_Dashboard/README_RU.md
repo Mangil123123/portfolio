@@ -88,4 +88,4 @@
 
 **Источник:** [AdventureWorks Sales Dashboard](https://github.com/Microsoft/sql-server-samples/releases/#release-adventureworks) SQL Server sample database.
 
-**Затрачено времени:** [5 дней, 75 минут в день]
+**Затрачено времени:** 5 дней
