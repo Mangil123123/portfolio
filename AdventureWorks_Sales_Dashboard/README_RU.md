@@ -53,7 +53,7 @@
 |---|---|---|---|
 | Total Revenue | `SalesOrderDetail[LineTotal]` | Sum | общая выручка |
 | Total Orders | `SalesOrderHeader[SalesOrderID]` | Count | число заказов |
-| Avg Order Value | `SalesOrderDetail[LineTotal]` | Average | средняя сумма **строки позиции**, не заказа (см. ограничение ниже) |
+| Avg Order Value | `SalesOrderDetail[LineTotal]` | Average | средняя сумма **строки позиции**, не заказа |
 | Total Customers | `Customer[CustomerID]` | Count | число записей в справочнике клиентов |
 
 ## Визуализации
