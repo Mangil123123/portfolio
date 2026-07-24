@@ -52,7 +52,7 @@ No custom DAX measures were written; metrics were built using Power BI's implici
 |---|---|---|---|
 | Total Revenue | `SalesOrderDetail[LineTotal]` | Sum | Total revenue |
 | Total Orders | `SalesOrderHeader[SalesOrderID]` | Count | Number of orders |
-| Avg Order Value | `SalesOrderDetail[LineTotal]` | Average | Average **line item amount**, not per-order total (see limitation note) |
+| Avg Order Value | `SalesOrderDetail[LineTotal]` | Average | Average **line item amount**, not per-order total |
 | Total Customers | `Customer[CustomerID]` | Count | Number of records in the customer dimension |
 
 ## Visualizations
