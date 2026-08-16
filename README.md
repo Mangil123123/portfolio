@@ -1,5 +1,5 @@
 # My Portfolio
-
+I specialize in data visualization: I take ready-made data extracts (Excel/CSV/SQL Server) and transform them into interactive Power BI dashboards (DAX, Power Query).
 ## Projects
 
 ### 🏠 Airbnb NYC Market Analysis Dashboard
