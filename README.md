@@ -1,5 +1,5 @@
 # My Portfolio
-I specialize in data visualization: I take ready-made data extracts (Excel/CSV/SQL Server) and transform them into interactive Power BI dashboards (DAX, Power Query).
+I specialize in data visualization: I take raw data (Excel, CSV, database exports), clean and transform it using Power Query, and build interactive dashboards in Power BI (DAX, Power Query).
 ## Projects
 
 ### 🏠 Airbnb NYC Market Analysis Dashboard
