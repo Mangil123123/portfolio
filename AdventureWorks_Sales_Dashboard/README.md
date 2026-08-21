@@ -4,7 +4,7 @@ An interactive Power BI sales analysis dashboard built on AdventureWorks (SQL Se
 
 **Context:** The Chief Commercial Officer / Sales Manager needs a single, unified view of sales—revenue, dynamics, regions, products, and customers—all on one screen. Without it, decisions are made blindly: revenue dips go unnoticed, and resources are wasted on unprofitable areas.
 
-**Objective:** Build a sales dashboard that answers key business questions:
+**🎯 Objective:** Build a sales dashboard that answers key business questions:
 - What is the total revenue, and how does it change year over year?
 - Which regions generate the most revenue?
 - Which products / product lines lead in sales?
@@ -76,13 +76,14 @@ No custom DAX measures were written; metrics were built using Power BI's implici
 - Business intelligence and insight generation
 - Working with OLTP schemas (complex normalized tables)
 
-## Key Insights
+## 💡 Key Insights
 - **Overall Volume:** $109.85M revenue · 31.5K orders · $905 average line item value · 19.8K customers
 - **Dynamics:** Peak sales occurred in 2013, followed by a drop in 2014. *Note:* The 2014 drop reflects incomplete data rather than an actual business downturn (AdventureWorks data only runs through June 30, 2014).
 - **Regional Concentration:** The Southwest region accounts for ~22% of total revenue, indicating significant reliance on a single market.
 - **Top Products:** Revenue is primarily driven by the Mountain-200 product line.
 - **Customer Base:** Revenue is concentrated among a small group of key customers.
 
+## 📂 Dataset
 This is a portfolio project based on Microsoft's public dataset, structured to address real-world business requirements.
 
 **Data Source:** [AdventureWorks Sales Dashboard](https://github.com/Microsoft/sql-server-samples/releases/#release-adventureworks) SQL Server sample database.
