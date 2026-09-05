@@ -2,8 +2,13 @@
 I specialize in data visualization: I take raw data (Excel, CSV, database exports), clean and transform it using Power Query, and build interactive dashboards in Power BI (DAX, Power Query).
 ## Projects
 
+### 🏪 Superstore Sales Analysis Dashboard
+![Superstore Sales](Superstore/Images/Superstore.png)
+Minimalist Power BI dashboard for analyzing sales dynamics and structure of a retail network.
+[Посмотреть проект →](Superstore/README.md)
+
 ### 🏠 Airbnb NYC Market Analysis Dashboard
-![Netflix Dashboard](Airbnb_NYC/images/Airbnb_NYC.png)
+![Airbnb Dashboard](Airbnb_NYC/images/Airbnb_NYC.png)
 Interactive Power BI dashboard for analyzing the short-term rental market in New York City.
 [View Project →](Airbnb_NYC/README.md)
 
