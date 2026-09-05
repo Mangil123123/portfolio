@@ -1,4 +1,4 @@
-# 📊 Дашборд анализа продаж Superstore Sales
+# 🏪 Дашборд анализа продаж Superstore Sales
 
 ![Superstore Sales](Images/Superstore.png)
 
