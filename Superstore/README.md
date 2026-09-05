@@ -95,6 +95,6 @@ Educational project based on the public Superstore dataset, adapted for real-wor
 
 **Source:** [Superstore Sales Dataset on Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
-**File:** [📥 Download .pbix File](https://raw.githubusercontent.com/Mangil123123/portfolio/main/Superstore/Files/Superstore.pbix) (Final report; requires free Power BI Desktop to view)
+**File:** [📥Download .pbix File](https://raw.githubusercontent.com/Mangil123123/portfolio/main/Superstore/Files/Superstore.pbix) (Final report; requires free Power BI Desktop to view)
 
 **Time Spent:** 4 days
