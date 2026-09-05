@@ -7,15 +7,15 @@ I specialize in data visualization: I take raw data (Excel, CSV, database export
 Minimalist Power BI dashboard for analyzing sales dynamics and structure of a retail network.
 [View Project →](Superstore/README.md)
 
-### 🏠 Airbnb NYC Market Analysis Dashboard
-![Airbnb Dashboard](Airbnb_NYC/images/Airbnb_NYC.png)
-Interactive Power BI dashboard for analyzing the short-term rental market in New York City.
-[View Project →](Airbnb_NYC/README.md)
-
 ### 📈 AdventureWorks Sales
 ![AdventureWorks_Sales_Dashboard](AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png)
 An interactive Power BI sales analysis dashboard built on AdventureWorks
 [View Project →](AdventureWorks_Sales_Dashboard/README.md)
+
+### 🏠 Airbnb NYC Market Analysis Dashboard
+![Airbnb Dashboard](Airbnb_NYC/images/Airbnb_NYC.png)
+Interactive Power BI dashboard for analyzing the short-term rental market in New York City.
+[View Project →](Airbnb_NYC/README.md)
 
 ### 🎬 Netflix Content Analysis
 ![Netflix Dashboard](Netflix_analysis/images/Netflix_dashboard3.png)
