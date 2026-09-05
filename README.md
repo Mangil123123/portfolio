@@ -5,7 +5,7 @@ I specialize in data visualization: I take raw data (Excel, CSV, database export
 ### 🏪 Superstore Sales Analysis Dashboard
 ![Superstore Sales](Superstore/Images/Superstore.png)
 Minimalist Power BI dashboard for analyzing sales dynamics and structure of a retail network.
-[Посмотреть проект →](Superstore/README.md)
+[View Project →](Superstore/README.md)
 
 ### 🏠 Airbnb NYC Market Analysis Dashboard
 ![Airbnb Dashboard](Airbnb_NYC/images/Airbnb_NYC.png)
