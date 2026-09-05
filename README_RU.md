@@ -2,8 +2,13 @@
 Специализируюсь на визуализации данных: беру сырые данные (Excel, CSV, выгрузки из баз данных), очищаю и трансформирую в Power Query, строю интерактивные дашборды в Power BI (DAX, Power Query)
 ## Проекты
 
+### 🏪 Дашборд анализа продаж Superstore Sales
+![Superstore Sales](Images/Superstore.png)
+Минималистичный дашборд в Power BI для анализа динамики и структуры продаж ритейл-сети. 
+[Посмотреть проект →](Superstore/README_RU.md)
+
 ### 🏠 Дашборд анализа рынка Airbnb в Нью-Йорке
-![Netflix Dashboard](Airbnb_NYC/images/Airbnb_NYC.png)
+![Airbnb Dashboard](Airbnb_NYC/images/Airbnb_NYC.png)
 Интерактивный дашборд в Power BI для анализа рынка краткосрочной аренды жилья в Нью-Йорке.
 [Посмотреть проект →](Airbnb_NYC/README_RU.md)
 
