@@ -3,7 +3,7 @@
 ## Проекты
 
 ### 🏪 Дашборд анализа продаж Superstore Sales
-![Superstore Sales](Images/Superstore.png)
+![Superstore Sales](Superstore/Images/Superstore.png)
 Минималистичный дашборд в Power BI для анализа динамики и структуры продаж ритейл-сети. 
 [Посмотреть проект →](Superstore/README_RU.md)
 
