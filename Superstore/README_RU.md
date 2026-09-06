@@ -54,7 +54,7 @@ Year = RIGHT('train'[Order Date], 4)
 ```
 
 ### 3. Визуализация
-- **KPI-карточки** — Total Sales, Avg Order Value, Total Orders с встроенными SVG-иконками.
+- **KPI-карточки** — Total Sales, Avg Order Value, Total Orders с png иконками.
 - **Bar Chart** — Продажи по подкатегориям.
 - **Donut Chart** — Распределение по сегментам.
 - **Line Chart** — Тренд продаж по годам.
