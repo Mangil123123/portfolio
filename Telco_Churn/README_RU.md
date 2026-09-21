@@ -104,6 +104,6 @@ Avg Tenure (Months) = AVERAGE('Telco'[Tenure])
 
 **Источник:** [Telco Customer Churn на Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-**Файл:** [📥Скачать .pbix файл](https://raw.githubusercontent.com/Mangil123123/portfolio/main/Telco_Churn/Files/Churn_Dashboard.pbix) (итоговый отчёт, для просмотра понадобится бесплатная программа Power BI Desktop)
+**Файл:** [📥Скачать .pbix файл](https://raw.githubusercontent.com/Mangil123123/portfolio/main/Telco_Churn/Files/Telco_Churn.pbix) (итоговый отчёт, для просмотра понадобится бесплатная программа Power BI Desktop)
 
 **Затрачено времени:** 5 дней
