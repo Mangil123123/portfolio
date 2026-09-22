@@ -104,4 +104,6 @@ Learning project on the public Telco Customer Churn dataset, framed as a real te
 
 **Source:** [Telco Customer Churn on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
+**File:** [📥Download .pbix File](https://raw.githubusercontent.com/Mangil123123/portfolio/main/Superstore/Files/Superstore.pbix) (Final report; requires free Power BI Desktop to view)
+
 **Time spent:** 5 days
