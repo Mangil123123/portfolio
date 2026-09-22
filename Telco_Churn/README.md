@@ -75,6 +75,8 @@ Avg Tenure (Months) = AVERAGE('Telco'[Tenure])
 - Icons integrated inside the KPI cards via the image visual.
 - No sparklines used: the dataset has no time column, so a line over tenure would fake a trend that does not exist in the data.
 
+![Churn_Dashboard Preview](Images/Telco_Churn.gif)
+
 ## Skills Applied
 
 - Power Query work (renaming, types, value replacement, conditional columns)
