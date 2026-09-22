@@ -2,6 +2,11 @@
 I specialize in data visualization: I take raw data (Excel, CSV, database exports), clean and transform it using Power Query, and build interactive dashboards in Power BI (DAX, Power Query).
 ## Projects
 
+### 📉 Telco Customer Churn Analysis Dashboard
+![Telco Customer Churn](Telco_Churn/Images/Churn_Dashboard.png)
+Minimalist Power BI dashboard for analyzing the causes and cost of customer churn at a telecom operator.
+[View Project →](Telco_Churn/README.md)
+
 ### 🏪 Superstore Sales Analysis Dashboard
 ![Superstore Sales](Superstore/Images/Superstore.png)
 Minimalist Power BI dashboard for analyzing sales dynamics and structure of a retail network.
