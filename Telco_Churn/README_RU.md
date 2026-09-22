@@ -62,6 +62,7 @@ Avg Tenure (Months) = AVERAGE('Telco'[Tenure])
 
 ### 3. Визуализация
 - **KPI-карточки** — Churn Rate, Lost Revenue, Avg Tenure с png-иконками.
+- **Bar Chart** — отток по типу контракта (`Contract` × `Churn Rate %`).
 - **Donut Chart** — распределение ушедших по интернет-тарифам (`InternetService`)
 - **Column Chart** — ушедшие клиенты по когортам стажа (`Experience segment` × `Churned Customers`).
 - **Table** — детализация по демографии (`Gender`, `Senior Citizens`, `Total Customers`, `Churn Rate %`), сортировка по оттоку.
