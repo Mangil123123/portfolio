@@ -2,6 +2,11 @@
 Специализируюсь на визуализации данных: беру сырые данные (Excel, CSV, выгрузки из баз данных), очищаю и трансформирую в Power Query, строю интерактивные дашборды в Power BI (DAX, Power Query)
 ## Проекты
 
+### 📉 Дашборд анализа оттока клиентов Telco Customer Churn
+![Telco Customer Churn](Telco_Churn/Images/Churn_Dashboard.png)
+Минималистичный дашборд в Power BI для анализа причин и стоимости ухода клиентов телеком-оператора.
+[Посмотреть проект →](Telco_Churn/README_RU.md)
+
 ### 🏪 Дашборд анализа продаж Superstore Sales
 ![Superstore Sales](Superstore/Images/Superstore.png)
 Минималистичный дашборд в Power BI для анализа динамики и структуры продаж ритейл-сети. 
