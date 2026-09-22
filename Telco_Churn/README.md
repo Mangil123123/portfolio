@@ -61,9 +61,9 @@ Avg Tenure (Months) = AVERAGE('Telco'[Tenure])
 ```
 
 ### 3. Visualization
-- **KPI cards** — Churn Rate, Lost Revenue, Avg Tenure with png icons. The Avg Tenure card is filtered at the visual level by `Churn = Left`, so it shows the average tenure of churned customers (17.98 months → 18), not the whole base (32.37 months).
+- **KPI cards** — Churn Rate, Lost Revenue, Avg Tenure with png icons.
 - **Bar Chart** — churn by contract type (`Contract` × `Churn Rate %`).
-- **Donut Chart** — distribution of churned customers by internet plan (`InternetService`, visual-level filter `Churn = Left`).
+- **Donut Chart** — distribution of churned customers by internet plan (`InternetService`)
 - **Column Chart** — churned customers by tenure cohort (`Experience segment` × `Churned Customers`).
 - **Table** — demographic breakdown (`Gender`, `Senior Citizens`, `Total Customers`, `Churn Rate %`), sorted by churn.
 - Data labels enabled on the bar/column charts for instant reading.
