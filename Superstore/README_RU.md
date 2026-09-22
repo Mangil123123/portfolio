@@ -97,4 +97,4 @@ Year = RIGHT('train'[Order Date], 4)
 
 **Файл:** [📥Скачать .pbix файл](https://raw.githubusercontent.com/Mangil123123/portfolio/main/Superstore/Files/Superstore.pbix) (итоговый отчёт, для просмотра понадобится бесплатная программа Power BI Desktop)
 
-**Затрачено времени:** 4 дня
+**Затрачено времени:** 5 дня
