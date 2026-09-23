@@ -2,7 +2,7 @@
 
 ![Telco Customer Churn](Images/Churn_Dashboard.png)
 
-## 🇬🇧 About the Project
+## 🇺🇸 About the Project
 
 Minimalist Power BI dashboard for analyzing the causes and cost of customer churn at a telecom operator.
 
