@@ -42,7 +42,7 @@ Total Customers = COUNTROWS('Telco')
 
 **Churned Customers**
 ```dax
-Churned Customers = CALCULATE([Total Customers], 'Telco'[Churn] = "Left")
+Churned Customers = CALCULATE(COUNTROWS('Telco'), 'Telco'[Churn] = "Left")
 ```
 
 **Lost Revenue**
@@ -50,9 +50,14 @@ Churned Customers = CALCULATE([Total Customers], 'Telco'[Churn] = "Left")
 Lost Revenue = CALCULATE(SUM('Telco'[MonthlyRevenue]), 'Telco'[Churn] = "Left")
 ```
 
-**Churn Rate %**
+**Churn Rate**
 ```dax
-Churn Rate % = DIVIDE([Churned Customers], [Total Customers], 0)
+Churn Rate = 
+DIVIDE(
+    CALCULATE(COUNTROWS('Telco'), 'Telco'[Churn] = "Left"),
+    COUNTROWS('Telco'),
+    0
+)
 ```
 
 **Avg Tenure (Months)**
