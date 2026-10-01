@@ -1,6 +1,5 @@
-# portfolio
-
 # 🎬 Netflix Content Analysis Dashboard
+##### [← Back to portfolio](../README.md) | [Переключить на русский](README_RU.md) 
 
 ![Netflix Dashboard](images/Netflix_dashboard3.png)
 
