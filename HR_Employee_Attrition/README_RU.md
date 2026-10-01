@@ -1,5 +1,5 @@
-# Портфолио
 # 👥 HR Analytics Dashboard
+##### [← Назад к портфолио](../README_RU.md) | [Switch to English](README.md) 
 
 ![HR Dashboard](images/HR_dashboard.png)
 
