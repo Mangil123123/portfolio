@@ -1,4 +1,6 @@
 # AdventureWorks Sales Dashboard
+##### [← Назад к портфолио](../README_RU.md) | [Switch to English](README.md) 
+
 ![AdventureWorks_Sales_Dashboard
 ](images/AdventureWorks_Sales_Dashboard.png)
 Интерактивный дашборд в Power BI для анализа продаж на данных AdventureWorks (SQL Server).
