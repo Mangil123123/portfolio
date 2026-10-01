@@ -1,4 +1,4 @@
-[Switch to English](README.md)
+###### [Switch to English](README.md)
 # Моё портфолио
 Специализируюсь на визуализации данных: беру сырые данные (Excel, CSV, выгрузки из баз данных), очищаю и трансформирую в Power Query, строю интерактивные дашборды в Power BI (DAX, Power Query)
 ## Проекты
