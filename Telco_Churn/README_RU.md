@@ -1,5 +1,5 @@
 # 📉 Дашборд анализа оттока клиентов Telco Customer Churn
-##### [← Назад к портфолио](README_RU.md) | [Switch to English](README.md) 
+##### [← Назад к портфолио](../README_RU.md) | [Switch to English](README.md) 
 
 ![Telco Customer Churn](Images/Churn_Dashboard.png)
 
