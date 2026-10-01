@@ -1,5 +1,5 @@
 # 📉 Telco Customer Churn Analysis Dashboard
-##### [← Back to portfolio](portfolio/README.md) | [Переключить на русский](README_RU.md) 
+##### [← Back to portfolio](../README.md) | [Переключить на русский](README_RU.md) 
 
 ![Telco Customer Churn](Images/Churn_Dashboard.png)
 
