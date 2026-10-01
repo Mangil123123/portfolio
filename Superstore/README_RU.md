@@ -1,5 +1,5 @@
 # 🏪 Дашборд анализа продаж Superstore Sales
-
+##### [← Back to portfolio](../README.md) | [Переключить на русский](README_RU.md) 
 ![Superstore Sales](Images/Superstore.png)
 
 ## 🇷🇺 О проекте
