@@ -1,4 +1,6 @@
 # AdventureWorks Sales Dashboard
+##### [← Back to portfolio](../README.md) | [Переключить на русский](README_RU.md) 
+
 ![AdventureWorks_Sales_Dashboard](images/AdventureWorks_Sales_Dashboard.png)
 An interactive Power BI sales analysis dashboard built on AdventureWorks (SQL Server) data.
 
