@@ -115,3 +115,20 @@ Learning project on the public Telco Customer Churn dataset, framed as a real te
 **File:** [📥Download .pbix File](https://raw.githubusercontent.com/Mangil123123/portfolio/main/Telco_Churn/Files/churn_dashboard.pbix) (Final report; requires free Power BI Desktop to view)
 
 **Time spent:** 5 days
+
+
+## 🗂️ Other Projects
+
+| | | |
+|---|---|---|
+| <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> |
+| **Superstore** | **Airbnb NYC** | **HR Analytics** |
+| Retail sales analytics | Short-term rental market | Employee attrition |
+
+| | |
+|---|---|
+| <a href="../AdventureWorks_Sales_Dashboard/README.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **AdventureWorks Sales** | **Netflix Analysis** |
+| Bike retail sales analysis | Netflix content analysis |
+
+[← Back to portfolio](../README.md)
