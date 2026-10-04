@@ -90,7 +90,7 @@ Year = RIGHT('train'[Order Date], 4)
 2. **Assortment:** Focus on Phones and Chairs.
 3. **Analysis:** Conduct deep-dive analysis of central states (gray zone on map) to uncover hidden demand.
 
-##  Dataset
+## 📁 Dataset
 
 Educational project based on the public Superstore dataset, adapted for real-world retail analysis tasks.
 
@@ -99,3 +99,26 @@ Educational project based on the public Superstore dataset, adapted for real-wor
 **File:** [📥Download .pbix File](https://raw.githubusercontent.com/Mangil123123/portfolio/main/Superstore/Files/Superstore.pbix) (Final report; requires free Power BI Desktop to view)
 
 **Time Spent:** 4 days
+
+
+## 🗂️ Other Projects
+
+| | |
+|---|---|
+| <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="400" alt="Telco Churn"></a> | <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="400" alt="Airbnb"></a> |
+| **Telco Churn** | **Airbnb NYC** |
+| Telecom churn analysis | Short-term rental market |
+
+| | |
+|---|---|
+| <a href="../HR_Employee_Attrition/README.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="400" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="400" alt="AdventureWorks"></a> |
+| **HR Analytics** | **AdventureWorks Sales** |
+| Employee attrition | Bike retail sales analysis |
+
+| |
+|---|
+| <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="400" alt="Netflix"></a> |
+| **Netflix Analysis** |
+| Netflix content analysis |
+
+[← Back to portfolio](../README.md)
