@@ -114,3 +114,26 @@ This is an educational project on a public dataset, but the task is formulated a
 **Source:** [Airbnb Open Data on Kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata) (original: InsideAirbnb NYC)
 
 **Time spent:** 4 days
+
+
+## 🗂️ Other Projects
+
+| | |
+|---|---|
+| <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="400" alt="Telco Churn"></a> | <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="400" alt="Superstore"></a> |
+| **Telco Churn** | **Superstore** |
+| Telecom churn analysis | Retail sales analytics |
+
+| | |
+|---|---|
+| <a href="../HR_Employee_Attrition/README.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="400" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="400" alt="AdventureWorks"></a> |
+| **HR Analytics** | **AdventureWorks Sales** |
+| Employee attrition | Bike retail sales analysis |
+
+| |
+|---|
+| <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="400" alt="Netflix"></a> |
+| **Netflix Analysis** |
+| Netflix content analysis |
+
+[← Back to portfolio](../README.md)
