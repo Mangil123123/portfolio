@@ -127,3 +127,26 @@ Avg Age = AVERAGE('HR'[Age])
 **Источник:** [HR Employee Attrition на Kaggle](https://www.kaggle.com/datasets/saurabhbadole/hr-employee-attrition)
 
 **Время работы:** 2 дня
+
+
+## 🗂️ Другие проекты
+
+| | |
+|---|---|
+| <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="400" alt="Telco Churn"></a> | <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="400" alt="Superstore"></a> |
+| **Telco Churn** | **Superstore** |
+| Отток клиентов телеком | Ритейл-аналитика |
+
+| | |
+|---|---|
+| <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="400" alt="Airbnb"></a> | <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="400" alt="AdventureWorks"></a> |
+| **Airbnb NYC** | **AdventureWorks Sales** |
+| Рынок аренды | Анализ продаж велосипедов |
+
+| |
+|---|
+| <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="400" alt="Netflix"></a> |
+| **Netflix Analysis** |
+| Анализ контента Netflix |
+
+[← Назад к портфолио](../README_RU.md)
