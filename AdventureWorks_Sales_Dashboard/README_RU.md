@@ -1,4 +1,4 @@
-# AdventureWorks Sales Dashboard
+# 📈 AdventureWorks Sales Dashboard
 ##### [← Назад к портфолио](../README_RU.md) | [Switch to English](README.md) 
 
 ![AdventureWorks_Sales_Dashboard
@@ -92,3 +92,26 @@
 **Источник:** [AdventureWorks Sales Dashboard](https://github.com/Microsoft/sql-server-samples/releases/#release-adventureworks) SQL Server sample database.
 
 **Затрачено времени:** 5 дней
+
+
+## 🗂️ Другие проекты
+
+| | |
+|---|---|
+| <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="400" alt="Telco Churn"></a> | <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="400" alt="Superstore"></a> |
+| **Telco Churn** | **Superstore** |
+| Отток клиентов телеком | Ритейл-аналитика |
+
+| | |
+|---|---|
+| <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="400" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="400" alt="HR"></a> |
+| **Airbnb NYC** | **HR Analytics** |
+| Рынок аренды | Текучесть персонала |
+
+| |
+|---|
+| <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="400" alt="Netflix"></a> |
+| **Netflix Analysis** |
+| Анализ контента Netflix |
+
+[← Назад к портфолио](../README_RU.md)
