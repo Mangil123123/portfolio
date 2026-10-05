@@ -1,5 +1,5 @@
 ###### [Переключить на русский](README_RU.md)
-# My Portfolio
+# 🗂️ My Portfolio
 I specialize in data visualization: I take raw data (Excel, CSV, database exports), clean and transform it using Power Query, and build interactive dashboards in Power BI (DAX, Power Query).
 ## Projects
 
