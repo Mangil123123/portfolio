@@ -131,22 +131,16 @@ SAMEPERIODLASTYEAR(netflix_titles[date_added]))
 
 ## 🗂️ Другие проекты
 
-| | |
-|---|---|
-| <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="400" alt="Telco Churn"></a> | <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="400" alt="Superstore"></a> |
-| **Telco Churn** | **Superstore** |
-| Отток клиентов телеком | Ритейл-аналитика |
+| | | |
+|---|---|---|
+| <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> |
+| **Telco Churn** | **Superstore** | **Airbnb NYC** |
+| Отток клиентов телеком | Ритейл-аналитика | Рынок аренды |
 
 | | |
 |---|---|
-| <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="400" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="400" alt="HR"></a> |
-| **Airbnb NYC** | **HR Analytics** |
-| Рынок аренды | Текучесть персонала |
-
-| |
-|---|
-| <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="400" alt="AdventureWorks"></a> |
-| **AdventureWorks Sales** |
-| Анализ продаж велосипедов |
+| <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> |
+| **HR Analytics** | **AdventureWorks Sales** |
+| Текучесть персонала | Анализ продаж велосипедов |
 
 [← Назад к портфолио](../README_RU.md)
