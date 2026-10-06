@@ -134,22 +134,16 @@ but I formulated the task as if it were set by a real business
 
 ## 🗂️ Other Projects
 
-| | |
-|---|---|
-| <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="400" alt="Telco Churn"></a> | <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="400" alt="Superstore"></a> |
-| **Telco Churn** | **Superstore** |
-| Telecom churn analysis | Retail sales analytics |
+| | | |
+|---|---|---|
+| <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> |
+| **Telco Churn** | **Superstore** | **Airbnb NYC** |
+| Telecom churn analysis | Retail sales analytics | Short-term rental market |
 
 | | |
 |---|---|
-| <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="400" alt="Airbnb"></a> | <a href="../AdventureWorks_Sales_Dashboard/README.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="400" alt="AdventureWorks"></a> |
-| **Airbnb NYC** | **AdventureWorks Sales** |
-| Short-term rental market | Bike retail sales analysis |
-
-| |
-|---|
-| <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="400" alt="Netflix"></a> |
-| **Netflix Analysis** |
-| Netflix content analysis |
+| <a href="../AdventureWorks_Sales_Dashboard/README.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **AdventureWorks Sales** | **Netflix Analysis** |
+| Bike retail sales analysis | Netflix content analysis |
 
 [← Back to portfolio](../README.md)
