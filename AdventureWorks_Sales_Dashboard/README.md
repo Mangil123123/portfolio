@@ -95,22 +95,16 @@ This is a portfolio project based on Microsoft's public dataset, structured to a
 
 ## 🗂️ Other Projects
 
-| | |
-|---|---|
-| <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="400" alt="Telco Churn"></a> | <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="400" alt="Superstore"></a> |
-| **Telco Churn** | **Superstore** |
-| Telecom churn analysis | Retail sales analytics |
+| | | |
+|---|---|---|
+| <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> |
+| **Telco Churn** | **Superstore** | **Airbnb NYC** |
+| Telecom churn analysis | Retail sales analytics | Short-term rental market |
 
 | | |
 |---|---|
-| <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="400" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="400" alt="HR"></a> |
-| **Airbnb NYC** | **HR Analytics** |
-| Short-term rental market | Employee attrition |
-
-| |
-|---|
-| <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="400" alt="Netflix"></a> |
-| **Netflix Analysis** |
-| Netflix content analysis |
+| <a href="../HR_Employee_Attrition/README.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **HR Analytics** | **Netflix Analysis** |
+| Employee attrition | Netflix content analysis |
 
 [← Back to portfolio](../README.md)
