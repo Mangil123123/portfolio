@@ -165,7 +165,7 @@ Total Items = COUNTROWS('olist_order_items_dataset')
 
 **Объём:** 6 CSV-файлов; ≈99K заказов, ≈112K позиций; справочники — products, customers, order_reviews, translations.
 
-**Файл:** [📥 Скачать .pbix файл](https://github.com/Mangil123123/portfolio/releases/download/v1.0/Olist_Ecommerce.pbix) (итоговый отчёт, для просмотра понадобится бесплатная программа Power BI Desktop)
+**Файл:** [📥 Скачать .pbix файл](https://github.com/Mangil123123/portfolio/releases/download/v1.0/brazilian.e_commerce.pbix) (итоговый отчёт, для просмотра понадобится бесплатная программа Power BI Desktop)
 
 **Затрачено времени:** 6 дней
 
