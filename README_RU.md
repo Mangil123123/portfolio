@@ -3,6 +3,11 @@
 Специализируюсь на визуализации данных: беру сырые данные (Excel, CSV, выгрузки из баз данных), очищаю и трансформирую в Power Query, строю интерактивные дашборды в Power BI (DAX, Power Query)
 ## Проекты
 
+### 🛒 Дашборд анализа бразильского e-commerce Olist
+[![Olist E-Commerce Dashboard](Olist_Ecommerce/Images/Olist_Ecommerce.png)](Olist_Ecommerce/README_RU.md)
+Дашборд в Power BI для анализа эффективности бразильского маркетплейса Olist: динамика выручки, топ категорий, география заказов, качество доставки и отзывы клиентов.
+[Посмотреть проект →](Olist_Ecommerce/README_RU.md)
+
 ### 📉 Дашборд анализа оттока клиентов Telco Customer Churn
 [![Telco Customer Churn](Telco_Churn/Images/Churn_Dashboard.png)](Telco_Churn/README_RU.md)
 Минималистичный дашборд в Power BI для анализа причин и стоимости ухода клиентов телеком-оператора.
