@@ -3,6 +3,11 @@
 I specialize in data visualization: I take raw data (Excel, CSV, database exports), clean and transform it using Power Query, and build interactive dashboards in Power BI (DAX, Power Query).
 ## Projects
 
+### 🛒 Brazilian E-Commerce Analytics Dashboard
+[![Olist E-Commerce Dashboard](Olist_Ecommerce/Images/Olist_Ecommerce.png)](Olist_Ecommerce/README.md)
+Power BI dashboard for analyzing the performance of the Brazilian marketplace Olist: revenue trends, top categories, order geography, delivery quality and customer reviews.
+[View Project →](Olist_Ecommerce/README.md)
+
 ### 📉 Telco Customer Churn Analysis Dashboard
 [![Telco Customer Churn](Telco_Churn/Images/Churn_Dashboard.png)](Telco_Churn/README.md)
 Minimalist Power BI dashboard for analyzing the causes and cost of customer churn at a telecom operator.
