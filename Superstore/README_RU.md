@@ -104,14 +104,14 @@ Year = RIGHT('train'[Order Date], 4)
 
 | | | |
 |---|---|---|
-| <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> |
-| **Telco Churn** | **Airbnb NYC** | **HR Analytics** |
-| Отток клиентов телеком | Рынок аренды | Текучесть персонала |
+| <a href="../Olist_Ecommerce/README_RU.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> |
+| **Olist E-Commerce** | **Telco Churn** | **Airbnb NYC** |
+| Бразильский e-commerce | Отток клиентов телеком | Рынок аренды |
 
-| | |
-|---|---|
-| <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
-| **AdventureWorks Sales** | **Netflix Analysis** |
-| Анализ продаж велосипедов | Анализ контента Netflix |
+| | | |
+|---|---|---|
+| <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **HR Analytics** | **AdventureWorks Sales** | **Netflix Analysis** |
+| Текучесть персонала | Анализ продаж велосипедов | Анализ контента Netflix |
 
 [← Назад к портфолио](../README_RU.md)
