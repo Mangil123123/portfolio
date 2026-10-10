@@ -132,15 +132,15 @@ Avg Age = AVERAGE('HR'[Age])
 ## 🗂️ Другие проекты
 
 | | | |
-|---|---|---|
-| <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> |
-| **Telco Churn** | **Superstore** | **Airbnb NYC** |
-| Отток клиентов телеком | Ритейл-аналитика | Рынок аренды |
+|-|-|-|
+| <a href="../Olist_Ecommerce/README_RU.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> |
+| **Olist E-Commerce** | **Telco Churn** | **Superstore** |
+| Бразильский e-commerce | Отток клиентов телеком | Ритейл-аналитика |
 
-| | |
-|---|---|
-| <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
-| **AdventureWorks Sales** | **Netflix Analysis** |
-| Анализ продаж велосипедов | Анализ контента Netflix |
+| | | |
+|-|-|-|
+| <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **Airbnb NYC** | **AdventureWorks Sales** | **Netflix Analysis** |
+| Рынок аренды | Анализ продаж велосипедов | Анализ контента Netflix |
 
 [← Назад к портфолио](../README_RU.md)
