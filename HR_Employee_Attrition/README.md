@@ -135,15 +135,15 @@ but I formulated the task as if it were set by a real business
 ## 🗂️ Other Projects
 
 | | | |
-|---|---|---|
-| <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> |
-| **Telco Churn** | **Superstore** | **Airbnb NYC** |
-| Telecom churn analysis | Retail sales analytics | Short-term rental market |
+|-|-|-|
+| <a href="../Olist_Ecommerce/README.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> |
+| **Olist E-Commerce** | **Telco Churn** | **Superstore** |
+| Brazilian e-commerce analytics | Telecom churn analysis | Retail sales analytics |
 
-| | |
-|---|---|
-| <a href="../AdventureWorks_Sales_Dashboard/README.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
-| **AdventureWorks Sales** | **Netflix Analysis** |
-| Bike retail sales analysis | Netflix content analysis |
+| | | |
+|-|-|-|
+| <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../AdventureWorks_Sales_Dashboard/README.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **Airbnb NYC** | **AdventureWorks Sales** | **Netflix Analysis** |
+| Short-term rental market | Bike retail sales analysis | Netflix content analysis |
 
 [← Back to portfolio](../README.md)
