@@ -97,15 +97,15 @@
 ## 🗂️ Другие проекты
 
 | | | |
-|---|---|---|
-| <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> |
-| **Telco Churn** | **Superstore** | **Airbnb NYC** |
-| Отток клиентов телеком | Ритейл-аналитика | Рынок аренды |
+|-|-|-|
+| <a href="../Olist_Ecommerce/README_RU.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> |
+| **Olist E-Commerce** | **Telco Churn** | **Superstore** |
+| Бразильский e-commerce | Отток клиентов телеком | Ритейл-аналитика |
 
-| | |
-|---|---|
-| <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
-| **HR Analytics** | **Netflix Analysis** |
-| Текучесть персонала | Анализ контента Netflix |
+| | | |
+|-|-|-|
+| <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **Airbnb NYC** | **HR Analytics** | **Netflix Analysis** |
+| Рынок аренды | Текучесть персонала | Анализ контента Netflix |
 
 [← Назад к портфолио](../README_RU.md)
