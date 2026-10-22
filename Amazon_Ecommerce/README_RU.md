@@ -34,9 +34,9 @@
 - **Обработка пропусков:** Пустые категории и штаты заполнены как `Other` и `Digital / no state`, чтобы не терять транзакции.
 - **Оптимизация:** Текстовая колонка `Title` (названия товаров) удалена из таблицы фактов и вынесена в отдельный справочник `Dim_Product` для снижения веса `.pbix` файла.
 - Связи в модели (star schema):
-  - `Calendar[Date]` → `amazon-purchases[Date.OrderPurchase]` (1:*)
-  - `Dim_Product[ASIN]` → `amazon-purchases[ASIN]` (1:*)
-  - `survey[RespondentID]` → `amazon-purchases[RespondentID]` (1:*)
+  - `amazon-purchases[RespondentID]` → `survey[RespondentID]` (*:1)
+  - `amazon-purchases[Date.OrderPurchase]` → `Calendar[Date]` (*:1)
+  - `amazon-purchases[ASIN]` → `Dim_Product[ASIN]` (*:1)
 
 ### 2. Календарная таблица
 ```dax
