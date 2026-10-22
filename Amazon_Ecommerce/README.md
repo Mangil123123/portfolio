@@ -128,7 +128,7 @@ Max Price = MAX('amazon-purchases'[PriceUsd])
 
 | |
 |---|
-| <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="260" alt="Netflix"></a> |
+| <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
 | **Netflix Analysis** |
 | Netflix content analysis |
 
