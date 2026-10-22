@@ -3,6 +3,11 @@
 I specialize in data visualization: I take raw data (Excel, CSV, database exports), clean and transform it using Power Query, and build interactive dashboards in Power BI (DAX, Power Query).
 ## Projects
 
+### 🛍️ Amazon E-Commerce Analytics Dashboard
+[![Amazon E-Commerce Dashboard](Amazon_Ecommerce/Images/Amazon_Ecommerce.png)](Amazon_Ecommerce/README.md)
+Power BI dashboard for analyzing consumer behavior on Amazon: revenue dynamics, top categories and products, customer demographics, and shipping geography.
+[View Project →](Amazon_Ecommerce/README.md)
+
 ### 🛒 Brazilian E-Commerce Analytics Dashboard
 [![Olist E-Commerce Dashboard](Olist_Ecommerce/Images/Olist_Ecommerce.png)](Olist_Ecommerce/README.md)
 Power BI dashboard for analyzing the performance of the Brazilian marketplace Olist: revenue trends, top categories, order geography, delivery quality and customer reviews.
