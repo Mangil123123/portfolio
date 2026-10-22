@@ -33,9 +33,9 @@ An interactive Power BI dashboard analyzing consumer behavior on Amazon: revenue
 - **Missing Values:** Blank categories and states were filled as `Other` and `Digital / no state` to avoid losing transactions.
 - **Optimization:** Removed the text column `Title` (product names) from the fact table and moved it to a separate `Dim_Product` dimension to reduce the `.pbix` file size.
 - Model relationships (star schema):
-  - `Calendar[Date]` → `amazon-purchases[Date.OrderPurchase]` (1:*)
-  - `Dim_Product[ASIN]` → `amazon-purchases[ASIN]` (1:*)
-  - `survey[RespondentID]` → `amazon-purchases[RespondentID]` (1:*)
+  - `amazon-purchases[RespondentID]` → `survey[RespondentID]` (*:1)
+  - `amazon-purchases[Date.OrderPurchase]` → `Calendar[Date]` (*:1)
+  - `amazon-purchases[ASIN]` → `Dim_Product[ASIN]` (*:1)
 
 ### 2. Calendar Table
 ```dax
