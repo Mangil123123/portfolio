@@ -105,14 +105,20 @@ Educational project based on the public Superstore dataset, adapted for real-wor
 
 | | | |
 |---|---|---|
-| <a href="../Olist_Ecommerce/README.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> |
-| **Olist E-Commerce** | **Telco Churn** | **Airbnb NYC** |
-| Brazilian e-commerce analytics | Telecom churn analysis | Short-term rental market |
+| <a href="../Amazon_Ecommerce/README.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> |
+| **Amazon E-Commerce** | **Olist E-Commerce** | **Telco Churn** |
+| US marketplace analytics | Brazilian e-commerce analytics | Telecom churn analysis |
 
 | | | |
 |---|---|---|
-| <a href="../HR_Employee_Attrition/README.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
-| **HR Analytics** | **AdventureWorks Sales** | **Netflix Analysis** |
-| Employee attrition | Bike retail sales analysis | Netflix content analysis |
+| <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> |
+| **Airbnb NYC** | **HR Analytics** | **AdventureWorks Sales** |
+| Short-term rental market | Employee attrition | Bike retail sales analysis |
+
+| |
+|---|
+| <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **Netflix Analysis** |
+| Netflix content analysis |
 
 [← Back to portfolio](../README.md)
