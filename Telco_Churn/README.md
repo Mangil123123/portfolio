@@ -123,13 +123,13 @@ Learning project on the public Telco Customer Churn dataset, framed as a real te
 |---|---|---|
 | <a href="../Amazon_Ecommerce/README.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> |
 | **Amazon E-Commerce** | **Olist E-Commerce** | **Superstore** |
-| Amazon e-commerce analytics | Brazilian e-commerce | Retail sales analytics |
+| US marketplace analytics | Brazilian e-commerce | Retail sales analytics |
 
 | | | |
 |---|---|---|
 | <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> |
 | **Airbnb NYC** | **HR Analytics** | **AdventureWorks Sales** |
-| Short-term rental market | Employee attrition | Bike retail sales analysis |
+| Short-term rental market | Employee attrition | Retail sales & distribution |
 
 | |
 |---|
