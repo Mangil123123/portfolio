@@ -112,7 +112,7 @@ Year = RIGHT('train'[Order Date], 4)
 |---|---|---|
 | <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> |
 | **Airbnb NYC** | **HR Analytics** | **AdventureWorks Sales** |
-| Рынок аренды | Текучесть персонала | Анализ продаж велосипедов |
+| Рынок аренды | Текучесть персонала | Розничные продажи и дистрибуция |
 
 | |
 |---|
