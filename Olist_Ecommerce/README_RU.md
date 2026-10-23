@@ -174,14 +174,20 @@ Total Items = COUNTROWS('olist_order_items_dataset')
 
 | | | |
 |---|---|---|
-| <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> |
-| **Telco Churn** | **Superstore** | **Airbnb NYC** |
-| Отток клиентов телеком | Ритейл-аналитика | Рынок аренды |
+| <a href="../Amazon_Ecommerce/README_RU.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> |
+| **Amazon E-Commerce** | **Telco Churn** | **Superstore** |
+| Аналитика маркетплейса США | Отток клиентов телеком | Ритейл-аналитика |
 
 | | | |
 |---|---|---|
-| <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
-| **HR Analytics** | **AdventureWorks Sales** | **Netflix Analysis** |
-| Текучесть персонала | Анализ продаж велосипедов | Анализ контента Netflix |
+| <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> |
+| **Airbnb NYC** | **HR Analytics** | **AdventureWorks Sales** |
+| Рынок аренды | Текучесть персонала | Розничные продажи и дистрибуция |
+
+| |
+|---|
+| <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **Netflix Analysis** |
+| Анализ контента Netflix |
 
 [← Назад к портфолио](../README_RU.md)
