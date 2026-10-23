@@ -123,13 +123,13 @@ Avg Tenure (Months) = AVERAGE('Telco'[Tenure])
 |---|---|---|
 | <a href="../Amazon_Ecommerce/README_RU.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README_RU.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> |
 | **Amazon E-Commerce** | **Olist E-Commerce** | **Superstore** |
-| Анализ e-commerce Amazon | Бразильский e-commerce | Ритейл-аналитика |
+| Аналитика маркетплейса США | Бразильский e-commerce | Ритейл-аналитика |
 
 | | | |
 |---|---|---|
 | <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> |
 | **Airbnb NYC** | **HR Analytics** | **AdventureWorks Sales** |
-| Рынок аренды | Текучесть персонала | Анализ продаж |
+| Рынок аренды | Текучесть персонала | Розничные продажи и дистрибуция |
 
 | |
 |---|
