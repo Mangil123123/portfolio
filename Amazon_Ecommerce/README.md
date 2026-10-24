@@ -106,6 +106,7 @@ Max Price = MAX('amazon-purchases'[PriceUsd])
 3. **Demographics:** Set up targeting for the 25–34 age audience — this is the most solvent group in the sample.
 
 ## 📂 Dataset
+Educational project based on the public Amazon Open E-Commerce dataset, adapted for real-world marketplace analytics tasks.
 
 **Source:** [Amazon Open E-Commerce 1.0 (Nature Scientific Data)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YGLYDY)
 
