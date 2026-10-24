@@ -107,6 +107,7 @@ Max Price = MAX('amazon-purchases'[PriceUsd])
 3. **Демография:** Настроить таргетинг на аудиторию 25–34 лет — это самая платежеспособная группа в выборке.
 
 ## 📂 Датасет
+Учебный проект на публичном датасете Amazon Open E-Commerce, адаптированный под задачи реального анализа маркетплейса.
 
 **Источник:** [Amazon Open E-Commerce 1.0 (Nature Scientific Data)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YGLYDY)
 
