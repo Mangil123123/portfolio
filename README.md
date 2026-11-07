@@ -3,6 +3,11 @@
 I specialize in data visualization: I take raw data (Excel, CSV, database exports), clean and transform it using Power Query, and build interactive dashboards in Power BI (DAX, Power Query).
 ## Projects
 
+### 📊 RavenStack — SaaS Retention & Revenue
+[![RavenStack SaaS Retention & Revenue](RavenStack/Images/RavenStack.png)](RavenStack/README.md)
+Power BI dashboard for B2B SaaS revenue and retention analytics: MRR dynamics, churn reasons, support quality and account-level detail.
+[View Project →](RavenStack/README.md)
+
 ### 🛍️ Amazon E-Commerce Analytics Dashboard
 [![Amazon E-Commerce Dashboard](Amazon_Ecommerce/Images/Amazon_Ecommerce.png)](Amazon_Ecommerce/README.md)
 Power BI dashboard for analyzing consumer behavior on Amazon: revenue dynamics, top categories and products, customer demographics, and shipping geography.
