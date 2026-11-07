@@ -121,20 +121,21 @@ Avg Tenure (Months) = AVERAGE('Telco'[Tenure])
 
 | | | |
 |---|---|---|
-| <a href="../Amazon_Ecommerce/README_RU.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README_RU.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> |
-| **Amazon E-Commerce** | **Olist E-Commerce** | **Superstore** |
-| Аналитика маркетплейса США | Бразильский e-commerce | Ритейл-аналитика |
+| <a href="../RavenStack/README_RU.md"><img src="../RavenStack/Images/RavenStack.png" width="300" alt="RavenStack"></a> | <a href="../Amazon_Ecommerce/README_RU.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README_RU.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> |
+| **RavenStack — SaaS Retention & Revenue** | **Amazon E-Commerce** | **Olist E-Commerce** |
+| Выручка и удержание B2B SaaS | Аналитика маркетплейса США | Бразильский e-commerce |
 
 | | | |
 |---|---|---|
-| <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> |
-| **Airbnb NYC** | **HR Analytics** | **AdventureWorks Sales** |
-| Рынок аренды | Текучесть персонала | Розничные продажи и дистрибуция |
+| <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> |
+| **Superstore** | **Airbnb NYC** | **HR Analytics** |
+| Ритейл-аналитика | Рынок аренды | Текучесть персонала |
 
-| |
-|---|
-| <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
-| **Netflix Analysis** |
-| Анализ контента Netflix |
+| | |
+|---|---|
+| <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **AdventureWorks Sales** | **Netflix Analysis** |
+| Розничные продажи и дистрибуция | Анализ контента Netflix |
 
 [← Назад к портфолио](../README_RU.md)
+
