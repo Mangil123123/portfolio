@@ -132,21 +132,22 @@ Avg Age = AVERAGE('HR'[Age])
 ## 🗂️ Другие проекты
 
 | | | |
-|-|-|-|
-| <a href="../Amazon_Ecommerce/README_RU.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README_RU.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> |
-| **Amazon E-Commerce** | **Olist E-Commerce** | **Telco Churn** |
-| Аналитика маркетплейса США | Бразильский e-commerce | Отток клиентов телеком |
+|---|---|---|
+| <a href="../RavenStack/README_RU.md"><img src="../RavenStack/Images/RavenStack.png" width="300" alt="RavenStack"></a> | <a href="../Amazon_Ecommerce/README_RU.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README_RU.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> |
+| **RavenStack — SaaS Retention & Revenue** | **Amazon E-Commerce** | **Olist E-Commerce** |
+| Выручка и удержание B2B SaaS | Аналитика маркетплейса США | Бразильский e-commerce |
 
 | | | |
-|-|-|-|
-| <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> |
-| **Superstore** | **Airbnb NYC** | **AdventureWorks Sales** |
-| Ритейл-аналитика | Рынок аренды | Розничные продажи и дистрибуция |
+|---|---|---|
+| <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Airbnb_NYC/README_RU.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> |
+| **Superstore** | **Telco Churn** | **Airbnb NYC** |
+| Ритейл-аналитика | Отток клиентов телекома | Рынок аренды |
 
-| |
-|-|
-| <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
-| **Netflix Analysis** |
-| Анализ контента Netflix |
+| | |
+|---|---|
+| <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **AdventureWorks Sales** | **Netflix Analysis** |
+| Розничные продажи и дистрибуция | Анализ контента Netflix |
 
 [← Назад к портфолио](../README_RU.md)
+
