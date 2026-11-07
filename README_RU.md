@@ -3,6 +3,11 @@
 Специализируюсь на визуализации данных: беру сырые данные (Excel, CSV, выгрузки из баз данных), очищаю и трансформирую в Power Query, строю интерактивные дашборды в Power BI (DAX, Power Query)
 ## Проекты
 
+### 📊 RavenStack — SaaS Retention & Revenue
+[![RavenStack SaaS Retention & Revenue](RavenStack/Images/RavenStack.png)](RavenStack/README_RU.md)
+Дашборд в Power BI для анализа выручки и удержания B2B SaaS: динамика MRR, причины оттока, качество поддержки и детализация по аккаунтам.
+[Посмотреть проект →](RavenStack/README_RU.md)
+
 ### 🛍️ Дашборд анализа e-commerce Amazon
 [![Amazon E-Commerce Dashboard](Amazon_Ecommerce/Images/Amazon_Ecommerce.png)](Amazon_Ecommerce/README_RU.md)
 Дашборд в Power BI для анализа потребительского поведения на Amazon: динамика выручки, топ категорий и товаров, демография покупателей и география доставок.
