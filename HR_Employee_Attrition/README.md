@@ -135,21 +135,22 @@ but I formulated the task as if it were set by a real business
 ## 🗂️ Other Projects
 
 | | | |
-|-|-|-|
-| <a href="../Amazon_Ecommerce/README.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> |
-| **Amazon E-Commerce** | **Olist E-Commerce** | **Telco Churn** |
-| US marketplace analytics | Brazilian e-commerce analytics | Telecom churn analysis |
+|---|---|---|
+| <a href="../RavenStack/README.md"><img src="../RavenStack/Images/RavenStack.png" width="300" alt="RavenStack"></a> | <a href="../Amazon_Ecommerce/README.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> |
+| **RavenStack — SaaS Retention & Revenue** | **Amazon E-Commerce** | **Olist E-Commerce** |
+| B2B SaaS revenue & retention | US marketplace analytics | Brazilian e-commerce |
 
 | | | |
-|-|-|-|
-| <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../AdventureWorks_Sales_Dashboard/README.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> |
-| **Superstore** | **Airbnb NYC** | **AdventureWorks Sales** |
-| Retail sales analytics | Short-term rental market | Retail sales & distribution |
+|---|---|---|
+| <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> |
+| **Superstore** | **Telco Churn** | **Airbnb NYC** |
+| Retail sales analytics | Telecom churn analysis | Short-term rental market |
 
-| |
-|-|
-| <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
-| **Netflix Analysis** |
-| Netflix content analysis |
+| | |
+|---|---|
+| <a href="../AdventureWorks_Sales_Dashboard/README.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **AdventureWorks Sales** | **Netflix Analysis** |
+| Retail sales & distribution | Netflix content analysis |
 
 [← Back to portfolio](../README.md)
+
