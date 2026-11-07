@@ -96,21 +96,22 @@ This is a portfolio project based on Microsoft's public dataset, structured to a
 ## 🗂️ Other Projects
 
 | | | |
-|-|-|-|
-| <a href="../Amazon_Ecommerce/README.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> |
-| **Amazon E-Commerce** | **Olist E-Commerce** | **Telco Churn** |
-| US marketplace analytics | Brazilian e-commerce analytics | Telecom churn analysis |
+|---|---|---|
+| <a href="../RavenStack/README.md"><img src="../RavenStack/Images/RavenStack.png" width="300" alt="RavenStack"></a> | <a href="../Amazon_Ecommerce/README.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> |
+| **RavenStack — SaaS Retention & Revenue** | **Amazon E-Commerce** | **Olist E-Commerce** |
+| B2B SaaS revenue & retention | US marketplace analytics | Brazilian e-commerce |
 
 | | | |
-|-|-|-|
-| <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> | <a href="../HR_Employee_Attrition/README.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> |
-| **Superstore** | **Airbnb NYC** | **HR Analytics** |
-| Retail sales analytics | Short-term rental market | Employee attrition |
+|---|---|---|
+| <a href="../Superstore/README.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Telco_Churn/README.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../Airbnb_NYC/README.md"><img src="../Airbnb_NYC/images/Airbnb_NYC.png" width="300" alt="Airbnb"></a> |
+| **Superstore** | **Telco Churn** | **Airbnb NYC** |
+| Retail sales analytics | Telecom churn analysis | Short-term rental market |
 
-| |
-|-|
-| <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
-| **Netflix Analysis** |
-| Netflix content analysis |
+| | |
+|---|---|
+| <a href="../HR_Employee_Attrition/README.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../Netflix_analysis/README.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **HR Analytics** | **Netflix Analysis** |
+| Employee attrition | Netflix content analysis |
 
 [← Back to portfolio](../README.md)
+
