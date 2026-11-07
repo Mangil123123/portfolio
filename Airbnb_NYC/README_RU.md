@@ -119,21 +119,22 @@ DIVIDE(
 ## 🗂️ Другие проекты
 
 | | | |
-|-|-|-|
-| <a href="../Amazon_Ecommerce/README_RU.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README_RU.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> | <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> |
-| **Amazon E-Commerce** | **Olist E-Commerce** | **Telco Churn** |
-| Аналитика маркетплейса США | Бразильский e-commerce | Отток клиентов телеком |
+|---|---|---|
+| <a href="../RavenStack/README_RU.md"><img src="../RavenStack/Images/RavenStack.png" width="300" alt="RavenStack"></a> | <a href="../Amazon_Ecommerce/README_RU.md"><img src="../Amazon_Ecommerce/Images/Amazon_Ecommerce.png" width="300" alt="Amazon"></a> | <a href="../Olist_Ecommerce/README_RU.md"><img src="../Olist_Ecommerce/Images/Olist_Ecommerce.png" width="300" alt="Olist"></a> |
+| **RavenStack — SaaS Retention & Revenue** | **Amazon E-Commerce** | **Olist E-Commerce** |
+| Выручка и удержание B2B SaaS | Аналитика маркетплейса США | Бразильский e-commerce |
 
 | | | |
-|-|-|-|
-| <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> | <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> |
-| **Superstore** | **HR Analytics** | **AdventureWorks Sales** |
-| Ритейл-аналитика | Текучесть персонала | Розничные продажи и дистрибуция |
+|---|---|---|
+| <a href="../Superstore/README_RU.md"><img src="../Superstore/Images/Superstore.png" width="300" alt="Superstore"></a> | <a href="../Telco_Churn/README_RU.md"><img src="../Telco_Churn/Images/Churn_Dashboard.png" width="300" alt="Telco Churn"></a> | <a href="../HR_Employee_Attrition/README_RU.md"><img src="../HR_Employee_Attrition/images/HR_dashboard.png" width="300" alt="HR"></a> |
+| **Superstore** | **Telco Churn** | **HR Analytics** |
+| Ритейл-аналитика | Отток клиентов телекома | Текучесть персонала |
 
-| |
-|-|
-| <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
-| **Netflix Analysis** |
-| Анализ контента Netflix |
+| | |
+|---|---|
+| <a href="../AdventureWorks_Sales_Dashboard/README_RU.md"><img src="../AdventureWorks_Sales_Dashboard/images/AdventureWorks_Sales_Dashboard.png" width="300" alt="AdventureWorks"></a> | <a href="../Netflix_analysis/README_RU.md"><img src="../Netflix_analysis/images/Netflix_dashboard3.png" width="300" alt="Netflix"></a> |
+| **AdventureWorks Sales** | **Netflix Analysis** |
+| Розничные продажи и дистрибуция | Анализ контента Netflix |
 
 [← Назад к портфолио](../README_RU.md)
+
